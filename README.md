@@ -4,11 +4,7 @@
 This project involves analyzing IT help desk ticket data from 2016 to 2020 and creating two interactive dashboards in Power BI. These dashboards provide actionable insights for monitoring IT performance, SLA compliance, agent productivity, and ticket trends.
 
 ### Dashboard Previews
-1. **Detailed Ticket Analysis Dashboard**
-   ![Detailed Ticket Analysis Dashboard](Detailed%20Ticket%20Analysis%20Dashboard.png)
-
-2. **Overview Dashboard**
-   ![IT Help Desk Analysis Overview Dashboard](IT%20Help%20Desk%20Analysis%20Overview%20Dashboard%20.png)
+https://github.com/ManasiShimpi/IT_Help_Desk_Analysis/blob/main/It%20ticket%20analysis%20project.pbix
 
 ## Key Features
 ### Detailed Ticket Analysis Dashboard
