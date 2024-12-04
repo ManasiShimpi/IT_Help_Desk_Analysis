@@ -33,8 +33,6 @@ https://github.com/ManasiShimpi/IT_Help_Desk_Analysis/blob/main/It%20ticket%20an
 ## Files Included
 1. **IT Tickets Analysis.xlsx**: The raw dataset used for creating the dashboards.
 2. **It ticket analysis project.pbix**: Power BI file containing both dashboards.
-3. **Detailed Ticket Analysis Dashboard.png**: A preview of the Detailed Dashboard.
-4. **IT Help Desk Analysis Overview Dashboard.png**: A preview of the Overview Dashboard.
 
 ## Insights Uncovered
 1. **System** and **Login Access** categories dominate ticket counts, followed by Software and Hardware issues.
